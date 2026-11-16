@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4096" height="1536" viewBox="0 0 1600 600" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">NETRA-AI logo</title><desc id="desc">NETRA-AI wordmark framed by a silver orbital arc and a bright satellite point.</desc>
+<defs><linearGradient id="silver" x1="310" y1="94" x2="1244" y2="541" gradientUnits="userSpaceOnUse"><stop stop-color="#8D9696"/><stop offset=".48" stop-color="#FAFBFB"/><stop offset="1" stop-color="#B6C0C0"/></linearGradient><radialGradient id="beacon"><stop stop-color="white"/><stop offset=".35" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient><filter id="soft" x="1035" y="58" width="182" height="182" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="16"/></filter></defs>
+<path d="M402 361C466 207 622 99 797 93c110-4 216 40 284 111" stroke="url(#silver)" stroke-width="4" stroke-linecap="round" opacity=".92"/>
+<path d="M388 409c102 104 255 151 407 142 151-9 287-74 377-183" stroke="url(#silver)" stroke-width="4" stroke-linecap="round" opacity=".88"/>
+<circle cx="1090" cy="204" r="54" fill="#fff" opacity=".3" filter="url(#soft)"/><circle cx="1090" cy="204" r="15" fill="url(#beacon)"/><circle cx="1090" cy="204" r="7.5" fill="#fff"/>
+<text x="800" y="352" text-anchor="middle" fill="#F5F6F4" font-family="Manrope, Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="104" font-weight="300" letter-spacing="31">NETRA-AI</text>
+</svg>
